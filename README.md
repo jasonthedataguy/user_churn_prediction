@@ -12,10 +12,15 @@ Deployment: Once the model is trained and evaluated, it can be deployed to make 
 
 ## Resources
 data/: This directory contains example user data for testing and development purposes.
+
 Mobile churn prediction model 2w in advance.ipynb: Script for Model with criteria of churning as 14 consecutive inactive days  
+
 Mobile churn prediction model 4w in advance.ipynb: Script for Model with criteria of churning as 28 consecutive inactive days  
+
 churn prediction task tracking.txt: draft idea for the prediction model 
+
 user churn prediction model - full paper.pdf: Full analysis and work
+
 requirements.txt: File listing the required Python dependencies.
 
 ## Contributing
